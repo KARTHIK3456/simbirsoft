@@ -2,6 +2,6 @@
 
 mvn package  
 
-java –jar target/test-task.jar <url>  
+java –jar target/test-task.jar url 
   
 url - входная строка с адресом web-страницы

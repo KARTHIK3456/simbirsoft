@@ -11,7 +11,7 @@ import static org.junit.Assert.*;
 
 public class UniqueWordDaoTest {
     @Test
-    public void testDaoClass() {
+    public void daoClassTest() {
         String url = "https://www.simbirsoft.com/";
 
         UniqueWord word1 = new UniqueWord();

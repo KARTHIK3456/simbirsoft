@@ -16,7 +16,7 @@ public class WordCounterTest {
     }
 
     @Test
-    public void calculateCount() {
+    public void calculateCountTest() {
         String s = "word wOrd Word world";
         HashMap<String, Integer> res = counter.calculateWordCount(s);
 
